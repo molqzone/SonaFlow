@@ -1,0 +1,9 @@
+[submodule "firmware"]
+	path = firmware
+	url = https://github.com/molqzone/SonaFlow-Firmware
+[submodule "app"]
+	path = app
+	url = https://github.com/molqzone/SonaFlow-App
+[submodule "hardware"]
+	path = hardware
+	url = https://github.com/molqzone/SonaFlow-Hardware.git
